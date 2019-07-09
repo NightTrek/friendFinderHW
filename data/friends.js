@@ -17,7 +17,7 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
+    name: "Jacob mester",
     photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
     scores: [
       "4",
@@ -65,7 +65,7 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
+    name: "lois Ritter",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
     scores: [
       "4",
