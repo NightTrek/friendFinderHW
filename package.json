@@ -1,17 +1,27 @@
 {
-  "name": "friendfinder",
+  "name": "friendfinderhw",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToneDef00/friendFinderHW.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.3"
+  "bugs": {
+    "url": "https://github.com/ToneDef00/friendFinderHW/issues"
   },
-  "engines": {
-    "node": "5.3.0"
+  "homepage": "https://github.com/ToneDef00/friendFinderHW#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
   }
 }
